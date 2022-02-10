@@ -1,7 +1,7 @@
 .vscode
-jest.config.js
-data_for_testing
+coverage
 test
 .eslintrc
-
-test/test-app
+.gitignore
+jest.config.js
+tsconfig.json
