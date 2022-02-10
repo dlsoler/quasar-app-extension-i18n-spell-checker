@@ -1,0 +1,7 @@
+.vscode
+jest.config.js
+data_for_testing
+test
+.eslintrc
+
+test/test-app

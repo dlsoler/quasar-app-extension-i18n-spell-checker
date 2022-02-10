@@ -1,0 +1,20 @@
+{
+  "@quasar/testing": {
+    "harnesses": [
+      "unit-jest@alpha"
+    ]
+  },
+  "@quasar/testing-unit-jest": {
+    "babel": "babelrc",
+    "options": [
+      "scripts",
+      "typescript",
+      "majestic"
+    ]
+  },
+  "i18n-spell-checker": {
+    "__internal": {
+      "dicPath": "/home/dlsoler/projects/github_repos/quasar-app-extension-i18n-spell-checker/test/dictionaries"
+    }
+  }
+}
