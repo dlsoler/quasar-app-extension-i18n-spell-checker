@@ -1,9 +1,15 @@
 {
   "name": "quasar-app-extension-i18n-spell-checker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Quasar app extension that works as spell checker for i18n files in Quasar projects",
   "author": "Diego Luis Soler <solerdiego@gmail.com>",
-  "keywords": ["Quasar Framework", "spell", "spell check", "vue-i18n", "i18n"],
+  "keywords": [
+    "Quasar Framework",
+    "spell",
+    "spell check",
+    "vue-i18n",
+    "i18n"
+  ],
   "license": "GPLv3",
   "main": "src/index.js",
   "scripts": {
