@@ -1,6 +1,6 @@
 {
   "name": "quasar-app-extension-i18n-spell-checker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Quasar app extension that works as spell checker for i18n files in Quasar projects",
   "author": "Diego Luis Soler <solerdiego@gmail.com>",
   "keywords": [
