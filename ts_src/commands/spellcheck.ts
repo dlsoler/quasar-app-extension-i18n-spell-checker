@@ -98,7 +98,7 @@ export function spellCheck(api: API): CommandFunction {
     const dataPathnameJs = api.resolve.src(`i18n/${lang}/index.js`);
     let exists = await fse.pathExists(dataPathnameJs);
     if (exists) {
-      console.log(`\nchecking the file ${dataPathnameJs}`);
+      console.log(`\nResult of checking the file ${dataPathnameJs}`);
       console.log('--------------------------------------------------------------------------\n');
       if (lineNumber) {
         logFunction = await getlogWithLineNumber(dataPathnameJs);
@@ -109,7 +109,7 @@ export function spellCheck(api: API): CommandFunction {
     const dataPathnameTs = api.resolve.src(`i18n/${lang}/index.ts`);
     exists = await fse.pathExists(dataPathnameTs);
     if (exists) {
-      console.log(`\nchecking the file ${dataPathnameTs}`);
+      console.log(`\nResult of checking the file ${dataPathnameTs}`);
       console.log('--------------------------------------------------------------------------\n');
       if (lineNumber) {
         logFunction = await getlogWithLineNumber(dataPathnameTs);
