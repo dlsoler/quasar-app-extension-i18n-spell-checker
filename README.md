@@ -1,9 +1,14 @@
+<div style="text-align: center; margin-bottom: 40px">
+    <img src="images/logo.png" alt="logo" width="200">
+</div>
+
+
 Quasar App Extension i18n-spell-checker
 ===
 
 > _This is a work in process._
 
-> _This project is independent of the [Quasar Framework](https://quasar.dev), but I love Quasar Framework.
+> _This project is independent of the [Quasar Framework](https://quasar.dev), but I love Quasar Framework._
 
 
 **i18n-spell-checker** is a [Quasar App Extension](https://quasar.dev/app-extensions/introduction) to spell check the text values stored in the i18n files in a typical Quasar Application.  
